@@ -1,2 +1,2 @@
 # Hello-Juliana
- #1 repository course-Git
+ #1 repository Git course
